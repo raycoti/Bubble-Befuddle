@@ -1,2 +1,2 @@
 # Bubble-Befuddle
-# to be uploaded this weekend :) be patient 
+# includes base game, all prefabs with some features removed such as tutorial and item properties
