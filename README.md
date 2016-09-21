@@ -5,10 +5,15 @@
 ###[Blog post and Videos](http://raycoti.com/index.php/2016/09/07/bubble-befuddle/)
 
 #Table of Contents
+##[Background](#background)
+
 ##[Gameplay](#gameplay)
 
 ##[Main Scripts](#scripts)
 
+<a name = "backgroud" /n>
+##Background
+In my Software Entertainment class we were given the semester to develop a game but there was a catch. The college had just invested in a large touchscreen display and they wanted to show it off so we were tasked with developing games for it. As someone more experienced in Unity I became the team lead for a group of three. This was the game we came up with. We prided ourselves in making a very simple game that could have features added to it over time.  I went on to add additional features and now have the game running on my tablet and website! I am looking to adding online multiplayer functionality but as of right now it is a great ice breaker.
 <a name ="gameplay"/>
 ## Gameplay 
  Players pick between purple and blue teams and must pop bubbles according to their team color, any bubble that hits a wall will result in their teams water level rising. Popping certain amounts of bubbles will result in gaining power-ups such as a puffer fish that you can fling at your opponents bubbles to make their water level rise faster or a sponge you can drag that lowers the water level of the bubble’s corresponding color.  Being up close to the screen added the challenge of limited scope which heightens the intensity, physical strategies exist as well as players are moving around each other and could box each other out
