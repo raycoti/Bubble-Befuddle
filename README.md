@@ -1,6 +1,6 @@
 # Bubble-Befuddle
 
-###[Online Demo](http://raycoti.com/index.php/2016/09/15/bubble-befuddle-demo/)
+###[Online Demo](http://raycoti.com/index.php/2016/09/15/bubble-befuddle-demo/)(Desktop only)
 
 ###[Blog post and Videos](http://raycoti.com/index.php/2016/09/07/bubble-befuddle/)
 
