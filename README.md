@@ -3,6 +3,7 @@
 *[Online Demo](http://raycoti.com/index.php/2016/09/15/bubble-befuddle-demo/)
 ##### Table of Contents
 [Gameplay](#gameplay)
+
 [Main Scrits](#scripts)
 
 <a name ="gameplay"/>
