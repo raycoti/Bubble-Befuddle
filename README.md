@@ -20,4 +20,5 @@ This handles the many ways a bubble can pop and how that affects the game. This 
 This handles the main game for player one. It handles how often and where bubbles spawn and the requirments for getting powerups. Ballgenerator.cs was a test for generating bubbles in general, bubblegeneartor2.cs controlls things for player2.  
 ###[popstuff.cs](https://github.com/raycoti/Bubble-Befuddle/blob/master/Assets/Scripts/popstuff.cs)
 This is a timed gameobject that changes sprites overtime and eventually destroys itself. The boolean of 'good' is passed when true a plus one is displayed, when it is false a minus one is displayed. As mentioned before you can instead pass integers to index into an array of final display images instead. 
-[all scripts here](https://github.com/raycoti/Bubble-Befuddle/tree/master/Assets/Scripts)
+
+###[all scripts here](https://github.com/raycoti/Bubble-Befuddle/tree/master/Assets/Scripts)
