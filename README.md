@@ -5,9 +5,9 @@
 ###[Blog post and Videos](http://raycoti.com/index.php/2016/09/07/bubble-befuddle/)
 
 #Table of Contents
-###[Gameplay](#gameplay)
+##[Gameplay](#gameplay)
 
-###[Main Scripts](#scripts)
+##[Main Scripts](#scripts)
 
 <a name ="gameplay"/>
 ## Gameplay 
